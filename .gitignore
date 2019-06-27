@@ -6,3 +6,5 @@
 ./examples/autoscaling/.terraform/
 ./examples/autoscaling/terraform.tfstate
 ./examples/autoscaling/terraform.tfstate.backup
+.DS_Store
+.gitignore
